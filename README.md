@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahdEid2003
-- 👀 I’m Computer Engineering Student
-- 🌱 I’m currently learning React.js
+- 👀 I’m Computer Engineer
+- 🌱 I’m currently learning ASP.net
 - 📫 How to reach me shahdeid012@gmail.com
 
 
